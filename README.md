@@ -1,16 +1,9 @@
-# project2
+🌍 World Time Clock
+World Time Clock is a dynamic, real-time application that allows users to track the current time in multiple locations around the world. It’s perfect for professionals, travelers, and anyone who needs to stay in sync with different time zones.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎯 Features
+Real-Time Updates: Automatically displays the current time for various global locations.
+Dynamic Location Management: Add or remove cities to customize the displayed time zones.
+Day/Night Cycle: Visual indicators to show whether it’s day or night in a selected location.
+Custom Alerts: Set alerts for specific times in different time zones.
+Responsive Design: Seamlessly adapts to different screen sizes, from mobile to desktop.
