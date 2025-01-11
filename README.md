@@ -7,3 +7,5 @@ Dynamic Location Management: Add or remove cities to customize the displayed tim
 Day/Night Cycle: Visual indicators to show whether it’s day or night in a selected location.
 Custom Alerts: Set alerts for specific times in different time zones.
 Responsive Design: Seamlessly adapts to different screen sizes, from mobile to desktop.
+
+Have an amazing day ahead :)
